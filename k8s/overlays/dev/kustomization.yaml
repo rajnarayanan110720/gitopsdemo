@@ -3,7 +3,7 @@ resources:
 
 images:
   - name: your-dockerhub-username/nginx-app
-    newTag: v1
+    newTag: v12
 
 patches:
   - target:
