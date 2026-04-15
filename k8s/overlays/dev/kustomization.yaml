@@ -2,7 +2,8 @@ resources:
   - ../../base
 
 images:
-  - name: your-dockerhub-username/nginx-app
+  - name: nginx-app
+    newName: rajnaranayananb/nginx-app
     newTag: v12
 
 patches:
