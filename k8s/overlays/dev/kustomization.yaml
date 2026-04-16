@@ -3,7 +3,7 @@ resources:
 
 images:
   - name: nginx-app
-    newName: rajnaranayananb/nginx-app
+    newName: rajnarayananb/nginx-app
     newTag: v12
 
 patches:
