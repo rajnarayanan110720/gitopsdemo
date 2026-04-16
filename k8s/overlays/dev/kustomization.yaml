@@ -4,7 +4,7 @@ resources:
 images:
   - name: nginx-app
     newName: rajnarayananb/nginx-app
-    newTag: v13
+    newTag: v14
 
 patches:
   - target:
