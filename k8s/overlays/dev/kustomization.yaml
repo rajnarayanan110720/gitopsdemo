@@ -2,7 +2,7 @@ resources:
   - ../../base
 
 images:
-  - name: nginx-app
+  - name: test
     newName: 192.168.30.78/customci/test
     newTag: v15
 
