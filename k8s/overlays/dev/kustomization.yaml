@@ -1,11 +1,9 @@
 resources:
   - ../../base
-
 images:
   - name: test
     newName: 192.168.30.78/customci/test
-    newTag: v15
-
+    newTag: fd1af739419f
 patches:
   - target:
       kind: Deployment
