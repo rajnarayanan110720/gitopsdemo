@@ -3,7 +3,7 @@ resources:
 
 images:
   - name: nginx-app
-    newName: rajnarayananb/nginx-app
+    newName: 192.168.30.78/customci/test
     newTag: v15
 
 patches:
